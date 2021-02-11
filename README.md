@@ -52,8 +52,7 @@ Please follow the following steps in order:
 - **STEP 1 - Prepare** (&asymp; 5 minutes)
 - **STEP 2 - Set Up the App** (&asymp; 5 minutes)
 - **STEP 3 - Implement the App's Requirements** (&asymp; 40 minutes)
-- **STEP 4 - Deploy to GitHub Pages** (&asymp; 10 minutes)
-- **STEP 5 - Bonus**
+- **STEP 4 - Bonus**
 
 **The times above are just estimated guidelines.**
 
