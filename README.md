@@ -105,7 +105,7 @@ When the mouse is over the "+" or "-" button, the button should reverse its back
 Congrats, that's all there is to it!
 
 
-**Make a pull request with your completed code - congrats, you are done!**
+**~~Make a pull request with your completed code~~ - congrats, you are done!**
 
 ### STEP 4 - Bonus
 
