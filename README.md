@@ -49,6 +49,7 @@ It is estimated that this project assessment up to 90 minutes to complete.
 
 Please follow the following steps in order:
 
+- **STEP 0 - Fork&Clone** (&asymp; 1 minutes)
 - **STEP 1 - Prepare** (&asymp; 5 minutes)
 - **STEP 2 - Set Up the App** (&asymp; 5 minutes)
 - **STEP 3 - Implement the App's Requirements** (&asymp; 40 minutes)
@@ -105,7 +106,7 @@ When the mouse is over the "+" or "-" button, the button should reverse its back
 Congrats, that's all there is to it!
 
 
-**~~Make a pull request with your completed code~~ - congrats, you are done!**
+**Make a pull request with your completed code - congrats, you are done!**
 
 ### STEP 4 - Bonus
 
